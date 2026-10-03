@@ -58,3 +58,19 @@ The project uses the **Sample Superstore** dataset containing 9,994 records and 
 * `Superstore Sales and Profit Analysis.pbix` — Power BI dashboard
 * `Sample - Superstore.csv` — Dataset
 
+## Dashboard Preview
+
+### 1. Overall Sales Analysis
+![Overall Sales Analysis](./1SALES.png)
+
+### 2. Region Analysis
+![Region Analysis](./2SALES.png)
+
+### 3. Sub-Category Analysis
+![Sub-Category Analysis](./3SALES.png)
+
+### 4. Category Analysis
+![Category Analysis](./4SALES.png)
+
+### 5. City Analysis
+![City Analysis](./5SALES.png)
